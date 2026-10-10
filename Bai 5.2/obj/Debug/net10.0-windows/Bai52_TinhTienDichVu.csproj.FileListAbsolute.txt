@@ -1,0 +1,14 @@
+D:\bai5\Bai52_TinhTienDichVu\bin\Debug\net10.0-windows\Bai52_TinhTienDichVu.exe
+D:\bai5\Bai52_TinhTienDichVu\bin\Debug\net10.0-windows\Bai52_TinhTienDichVu.deps.json
+D:\bai5\Bai52_TinhTienDichVu\bin\Debug\net10.0-windows\Bai52_TinhTienDichVu.runtimeconfig.json
+D:\bai5\Bai52_TinhTienDichVu\bin\Debug\net10.0-windows\Bai52_TinhTienDichVu.dll
+D:\bai5\Bai52_TinhTienDichVu\bin\Debug\net10.0-windows\Bai52_TinhTienDichVu.pdb
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.AssemblyInfoInputs.cache
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.AssemblyInfo.cs
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.csproj.CoreCompileInputs.cache
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.dll
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\refint\Bai52_TinhTienDichVu.dll
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.pdb
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\Bai52_TinhTienDichVu.genruntimeconfig.cache
+D:\bai5\Bai52_TinhTienDichVu\obj\Debug\net10.0-windows\ref\Bai52_TinhTienDichVu.dll

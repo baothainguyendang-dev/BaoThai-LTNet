@@ -1,0 +1,14 @@
+D:\bai5\Bai51_DangKy\bin\Debug\net10.0-windows\Bai51_DangKy.exe
+D:\bai5\Bai51_DangKy\bin\Debug\net10.0-windows\Bai51_DangKy.deps.json
+D:\bai5\Bai51_DangKy\bin\Debug\net10.0-windows\Bai51_DangKy.runtimeconfig.json
+D:\bai5\Bai51_DangKy\bin\Debug\net10.0-windows\Bai51_DangKy.dll
+D:\bai5\Bai51_DangKy\bin\Debug\net10.0-windows\Bai51_DangKy.pdb
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.AssemblyInfoInputs.cache
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.AssemblyInfo.cs
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.csproj.CoreCompileInputs.cache
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.dll
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\refint\Bai51_DangKy.dll
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.pdb
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\Bai51_DangKy.genruntimeconfig.cache
+D:\bai5\Bai51_DangKy\obj\Debug\net10.0-windows\ref\Bai51_DangKy.dll
