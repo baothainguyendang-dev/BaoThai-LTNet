@@ -1,0 +1,14 @@
+D:\bai5\Bai54_QuanLyNhanVien\bin\Debug\net10.0-windows\Bai54_QuanLyNhanVien.exe
+D:\bai5\Bai54_QuanLyNhanVien\bin\Debug\net10.0-windows\Bai54_QuanLyNhanVien.deps.json
+D:\bai5\Bai54_QuanLyNhanVien\bin\Debug\net10.0-windows\Bai54_QuanLyNhanVien.runtimeconfig.json
+D:\bai5\Bai54_QuanLyNhanVien\bin\Debug\net10.0-windows\Bai54_QuanLyNhanVien.dll
+D:\bai5\Bai54_QuanLyNhanVien\bin\Debug\net10.0-windows\Bai54_QuanLyNhanVien.pdb
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.AssemblyInfoInputs.cache
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.AssemblyInfo.cs
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.dll
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\refint\Bai54_QuanLyNhanVien.dll
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.pdb
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\Bai54_QuanLyNhanVien.genruntimeconfig.cache
+D:\bai5\Bai54_QuanLyNhanVien\obj\Debug\net10.0-windows\ref\Bai54_QuanLyNhanVien.dll

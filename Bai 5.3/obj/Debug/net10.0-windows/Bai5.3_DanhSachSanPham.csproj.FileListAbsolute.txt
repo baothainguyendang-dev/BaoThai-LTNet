@@ -1,0 +1,14 @@
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.AssemblyInfoInputs.cache
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.AssemblyInfo.cs
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.csproj.CoreCompileInputs.cache
+D:\bai5\Bai5.3_DanhSachSanPham\bin\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.exe
+D:\bai5\Bai5.3_DanhSachSanPham\bin\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.deps.json
+D:\bai5\Bai5.3_DanhSachSanPham\bin\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.runtimeconfig.json
+D:\bai5\Bai5.3_DanhSachSanPham\bin\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.dll
+D:\bai5\Bai5.3_DanhSachSanPham\bin\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.pdb
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.dll
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\refint\Bai5.3_DanhSachSanPham.dll
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.pdb
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\Bai5.3_DanhSachSanPham.genruntimeconfig.cache
+D:\bai5\Bai5.3_DanhSachSanPham\obj\Debug\net10.0-windows\ref\Bai5.3_DanhSachSanPham.dll
